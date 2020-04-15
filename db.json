@@ -1,6 +1,6 @@
 
    {
-  "questions": [
+  "MC questions": [
     {
         "q" : "The common element which describe the web page, is ?",
         "opt1" : "heading",
@@ -35,12 +35,12 @@
         "opt2" : "h6",
         "opt3" : "heading",
         "answer" : "h1"
-    },
-      
+    }
+     ],
+   
+"TF questions": [      
      
-     
-     
-     {
+    {
         "q" : "Multiple radio buttions in the same group can be set to a checked state at the same time",
         "opt1" : "True",
         "opt2" : "False",
@@ -98,142 +98,8 @@
        "opt1" : "True",
         "opt2" : "False",
         "answer" : "False"
-    
-    
-    
-    
-    
-    }, {
-        "q" : "which of the following tag is used to mark a begining of paragraph ?",
-        "opt1" : "TD",
-        "opt2" : "br",
-        "opt3" : "P",
-        "answer" : "P"
-    },
-    {
-        "q" : "From which tag descriptive list starts ?",
-        "opt1" : "LL",
-        "opt2" : "DL",
-        "opt3" : "DD",
-        "answer" : "DL"
-    }, {
-        "q" : "which of the following tag is used to mark a begining of paragraph ?",
-        "opt1" : "TD",
-        "opt2" : "br",
-        "opt3" : "P",
-        "answer" : "P"
-    },
-    {
-        "q" : "From which tag descriptive list starts ?",
-        "opt1" : "LL",
-        "opt2" : "DL",
-        "opt3" : "DD",
-        "answer" : "DL"
-    }, {
-        "q" : "which of the following tag is used to mark a begining of paragraph ?",
-        "opt1" : "TD",
-        "opt2" : "br",
-        "opt3" : "P",
-        "answer" : "P"
-    },
-    {
-        "q" : "From which tag descriptive list starts ?",
-        "opt1" : "LL",
-        "opt2" : "DL",
-        "opt3" : "DD",
-        "answer" : "DL"
-    }, {
-        "q" : "which of the following tag is used to mark a begining of paragraph ?",
-        "opt1" : "TD",
-        "opt2" : "br",
-        "opt3" : "P",
-        "answer" : "P"
-    },
-    {
-        "q" : "From which tag descriptive list starts ?",
-        "opt1" : "LL",
-        "opt2" : "DL",
-        "opt3" : "DD",
-        "answer" : "DL"
-    }, {
-        "q" : "which of the following tag is used to mark a begining of paragraph ?",
-        "opt1" : "TD",
-        "opt2" : "br",
-        "opt3" : "P",
-        "answer" : "P"
-    },
-    {
-        "q" : "From which tag descriptive list starts ?",
-        "opt1" : "LL",
-        "opt2" : "DL",
-        "opt3" : "DD",
-        "answer" : "DL"
-    }, {
-        "q" : "which of the following tag is used to mark a begining of paragraph ?",
-        "opt1" : "TD",
-        "opt2" : "br",
-        "opt3" : "P",
-        "answer" : "P"
-    },
-    {
-        "q" : "From which tag descriptive list starts ?",
-        "opt1" : "LL",
-        "opt2" : "DL",
-        "opt3" : "DD",
-        "answer" : "DL"
-    }, {
-        "q" : "which of the following tag is used to mark a begining of paragraph ?",
-        "opt1" : "TD",
-        "opt2" : "br",
-        "opt3" : "P",
-        "answer" : "P"
-    },
-    {
-        "q" : "From which tag descriptive list starts ?",
-        "opt1" : "LL",
-        "opt2" : "DL",
-        "opt3" : "DD",
-        "answer" : "DL"
-    }, {
-        "q" : "which of the following tag is used to mark a begining of paragraph ?",
-        "opt1" : "TD",
-        "opt2" : "br",
-        "opt3" : "P",
-        "answer" : "P"
-    },
-    {
-        "q" : "From which tag descriptive list starts ?",
-        "opt1" : "LL",
-        "opt2" : "DL",
-        "opt3" : "DD",
-        "answer" : "DL"
-    }, {
-        "q" : "which of the following tag is used to mark a begining of paragraph ?",
-        "opt1" : "TD",
-        "opt2" : "br",
-        "opt3" : "P",
-        "answer" : "P"
-    },
-    {
-        "q" : "From which tag descriptive list starts ?",
-        "opt1" : "LL",
-        "opt2" : "DL",
-        "opt3" : "DD",
-        "answer" : "DL"
-    }, {
-        "q" : "which of the following tag is used to mark a begining of paragraph ?",
-        "opt1" : "TD",
-        "opt2" : "br",
-        "opt3" : "P",
-        "answer" : "P"
-    },
-    {
-        "q" : "From which tag descriptive list starts ?",
-        "opt1" : "LL",
-        "opt2" : "DL",
-        "opt3" : "DD",
-        "answer" : "DL"
     }
-  ]
-  
+   ]
+    
+    
 }
