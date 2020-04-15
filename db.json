@@ -38,7 +38,7 @@
     }
      ],
    
-"TF questions": [      
+"TF questions":       
      
     {
         "q" : "Multiple radio buttions in the same group can be set to a checked state at the same time",
@@ -99,7 +99,7 @@
         "opt2" : "False",
         "answer" : "False"
     }
-   ]
+   
     
     
 }
