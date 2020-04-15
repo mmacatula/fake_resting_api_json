@@ -35,6 +35,41 @@
         "opt2" : "h6",
         "opt3" : "heading",
         "answer" : "h1"
+    },
+     {
+        "q" : "Which of the following are the three most common methods for organizing websites?",
+        "opt1" : "square,rectangle,circular",
+        "opt2" : "hierarchal,linear,random",
+        "opt3" : "under, over, through",
+        "answer" : "hierarchal,linear,random"
+    },
+     {
+        "q" : "Which of the following is not one of the four principles of the Web Content Accessibility Guidelines?",
+        "opt1" : "operable",
+        "opt2" : "perceivable",
+        "opt3" : "appeasable",
+        "answer" : "appeasable"
+    },
+     {
+        "q" : "Which of the following is known as white space?",
+        "opt1" : "the empty screen area around blocks of text and images",
+        "opt2" : "wherever the color white is seen on the page",
+        "opt3" : "the back end of the development",
+        "answer" : "the empty screen area around blocks of text and images"
+    },
+     {
+        "q" : "Which of the following is the design technique used to create pages that stretch to fill the browser window?",
+        "opt1" : "gas",
+        "opt2" : "liquid",
+        "opt3" : "solid",
+        "answer" : "liquid"
+    },
+     {
+        "q" : "Which HTML5 element has the most purpose of providing tangential content?",
+        "opt1" : "onside",
+        "opt2" : "other side",
+        "opt3" : "aside",
+        "answer" : "aside"
     }
      ],
    
