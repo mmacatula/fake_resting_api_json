@@ -35,6 +35,204 @@
         "opt2" : "h6",
         "opt3" : "heading",
         "answer" : "h1"
+    },
+      
+     
+     
+     
+     {
+        "q" : "Multiple radio buttions in the same group can be set to a checked state at the same time",
+        "opt1" : "True",
+        "opt2" : "False",
+        "answer" : "False"
+    },
+    {
+        "q" : "It is possible to create nested lists (one list inside another) ?",
+        "opt1" : "True",
+        "opt2" : "False",
+        "answer" : "True"
+    }, 
+     {
+        "q" : "It's important to design and style websites where users recognize each page as belonging to the same site.",
+        "opt1" : "True",
+        "opt2" : "False",
+        "answer" : "True"
+    },
+    {
+        "q" : "The two main forms of visual balance are: symmetrical balance and bilateral balance.",
+        "opt1" : "True",
+        "opt2" : "False",
+        "answer" : "False"
+    }, 
+     {
+        "q" : "HTML and CSS are the two main languages we use to create web pages.",
+        "opt1" : "True",
+        "opt2" : "False",
+        "answer" : "True"
+    },
+    {
+        "q" : "What you put in the body element of your HTML page is what viewer's see when the page is displayed in a browser.",
+        "opt1" : "True",
+        "opt2" : "False",
+        "answer" : "True"
+    }, 
+     {
+        "q" : "An attribute tells you something about the element which contains it.",
+        "opt1" : "True",
+        "opt2" : "False",
+        "answer" : "True"
+    },
+    {
+        "q" : "From which tag descriptive list starts ?",
+       "opt1" : "True",
+        "opt2" : "False",
+        "answer" : "False"
+    }, {
+        "q" : "If one element contains another it is considered to be the guardian of the enclosed element.",
+        "opt1" : "True",
+        "opt2" : "False",
+        "answer" : "False"
+    },
+    {
+        "q" : "From which tag descriptive list starts ?",
+       "opt1" : "True",
+        "opt2" : "False",
+        "answer" : "False"
+    
+    
+    
+    
+    
+    }, {
+        "q" : "which of the following tag is used to mark a begining of paragraph ?",
+        "opt1" : "TD",
+        "opt2" : "br",
+        "opt3" : "P",
+        "answer" : "P"
+    },
+    {
+        "q" : "From which tag descriptive list starts ?",
+        "opt1" : "LL",
+        "opt2" : "DL",
+        "opt3" : "DD",
+        "answer" : "DL"
+    }, {
+        "q" : "which of the following tag is used to mark a begining of paragraph ?",
+        "opt1" : "TD",
+        "opt2" : "br",
+        "opt3" : "P",
+        "answer" : "P"
+    },
+    {
+        "q" : "From which tag descriptive list starts ?",
+        "opt1" : "LL",
+        "opt2" : "DL",
+        "opt3" : "DD",
+        "answer" : "DL"
+    }, {
+        "q" : "which of the following tag is used to mark a begining of paragraph ?",
+        "opt1" : "TD",
+        "opt2" : "br",
+        "opt3" : "P",
+        "answer" : "P"
+    },
+    {
+        "q" : "From which tag descriptive list starts ?",
+        "opt1" : "LL",
+        "opt2" : "DL",
+        "opt3" : "DD",
+        "answer" : "DL"
+    }, {
+        "q" : "which of the following tag is used to mark a begining of paragraph ?",
+        "opt1" : "TD",
+        "opt2" : "br",
+        "opt3" : "P",
+        "answer" : "P"
+    },
+    {
+        "q" : "From which tag descriptive list starts ?",
+        "opt1" : "LL",
+        "opt2" : "DL",
+        "opt3" : "DD",
+        "answer" : "DL"
+    }, {
+        "q" : "which of the following tag is used to mark a begining of paragraph ?",
+        "opt1" : "TD",
+        "opt2" : "br",
+        "opt3" : "P",
+        "answer" : "P"
+    },
+    {
+        "q" : "From which tag descriptive list starts ?",
+        "opt1" : "LL",
+        "opt2" : "DL",
+        "opt3" : "DD",
+        "answer" : "DL"
+    }, {
+        "q" : "which of the following tag is used to mark a begining of paragraph ?",
+        "opt1" : "TD",
+        "opt2" : "br",
+        "opt3" : "P",
+        "answer" : "P"
+    },
+    {
+        "q" : "From which tag descriptive list starts ?",
+        "opt1" : "LL",
+        "opt2" : "DL",
+        "opt3" : "DD",
+        "answer" : "DL"
+    }, {
+        "q" : "which of the following tag is used to mark a begining of paragraph ?",
+        "opt1" : "TD",
+        "opt2" : "br",
+        "opt3" : "P",
+        "answer" : "P"
+    },
+    {
+        "q" : "From which tag descriptive list starts ?",
+        "opt1" : "LL",
+        "opt2" : "DL",
+        "opt3" : "DD",
+        "answer" : "DL"
+    }, {
+        "q" : "which of the following tag is used to mark a begining of paragraph ?",
+        "opt1" : "TD",
+        "opt2" : "br",
+        "opt3" : "P",
+        "answer" : "P"
+    },
+    {
+        "q" : "From which tag descriptive list starts ?",
+        "opt1" : "LL",
+        "opt2" : "DL",
+        "opt3" : "DD",
+        "answer" : "DL"
+    }, {
+        "q" : "which of the following tag is used to mark a begining of paragraph ?",
+        "opt1" : "TD",
+        "opt2" : "br",
+        "opt3" : "P",
+        "answer" : "P"
+    },
+    {
+        "q" : "From which tag descriptive list starts ?",
+        "opt1" : "LL",
+        "opt2" : "DL",
+        "opt3" : "DD",
+        "answer" : "DL"
+    }, {
+        "q" : "which of the following tag is used to mark a begining of paragraph ?",
+        "opt1" : "TD",
+        "opt2" : "br",
+        "opt3" : "P",
+        "answer" : "P"
+    },
+    {
+        "q" : "From which tag descriptive list starts ?",
+        "opt1" : "LL",
+        "opt2" : "DL",
+        "opt3" : "DD",
+        "answer" : "DL"
     }
   ]
   
