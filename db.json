@@ -1,15 +1,16 @@
 
     
     {
-    "question 1"[
-        "q" : "The common element which describe the web page, is ?",
-        "opt1" : "heading",
-        "opt2" : "paragraph",
-        "opt3" : "All of these",
-        "answer" : "All of these"
-        ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
     }
-
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
 
 
    
