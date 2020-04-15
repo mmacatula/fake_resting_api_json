@@ -9,15 +9,8 @@
         "answer" : "All of these"
     }
   ],
-  "question2": 
-    {
-      "q" : "The common element which describe the web page, is ?",
-        "opt1" : "heading",
-        "opt2" : "paragraph",
-        "opt3" : "All of these",
-        "answer" : "All of these"
-    }
-   }
-     
- 
-       
+  
+  "profile": {
+    "name": "typicode"
+  }
+}
