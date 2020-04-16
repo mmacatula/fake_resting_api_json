@@ -2,10 +2,10 @@
 document.addEventListener('DOMContentLoaded',
 function(){
   document.getElementById("quiz_select_submit").onclick =()=>{
-    get_api_data('https://my-json-server.typicode.com/sguthrie16/CUS1172_Project_4/db')
+    get_api_data('https://my-json-server.typicode.com/mmacatula/fake_resting_api_json/')
     };
   document.getElementById("move_on").onclick =()=>{
-    get_api_data('https://my-json-server.typicode.com/sguthrie16/CUS1172_Project_4/db')
+    get_api_data('https://my-json-server.typicode.com/mmacatula/fake_resting_api_json/')
     };
 
 })
