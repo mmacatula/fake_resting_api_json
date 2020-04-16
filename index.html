@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="./functions.js"></script>
+    <title>Milestone One</title>
+  </head>
+  <body>
+<!-- Title -->
+<div class="jumbotron text-center" style="background:#03a9f461; color:white;">
+  <h1 id="title">Quiz</h1>
+</div>
+
+<!-- login/choose quiz -->
+<div class="text-center container" id="login">
+  <form id="selector">
+    <div class="form-group">
+      <label for="name">Name:</label>
+      <input type="name" class="form-control" id="name">
+    </div>
+    <div class="form-group">
+      <label for="quizes">Select Quiz:</label>
+      <select class="form-control" id="quizes">
+        <option value="Quiz1">Quiz 1</option>
+        <option value="Quiz2">Quiz 2</option>
+      </select>
+    </div>
+    <button type="button" name="button" class="btn btn-default" id="quiz_select_submit">Submit</button>
+  </form>
+</div>
+
+<!-- First Quiz -->
+<div class="container" id="quiz1" style="display:none;">
+      <form id="quiz_one_questions">
+      </form>
+</div>
+
+<!-- Second Quiz -->
+<div class="container" id="quiz2" style="display:none;">
+      <form id="quiz_two_questions">
+      </form>
+</div>
+
+<!-- Encouragment -->
+<div id="encouragment_grid" style="display:none;">
+  <div class="row">
+    <div class="col-lg-9">
+      <h2 id="encouragment_selection"></h2>
+    </div>
+    <div class="col-lg-3">
+      <h4 id="score"></h4>
+    </div>
+  </div>
+</div>
+
+<!-- Explanation -->
+  <form id="explanation" style="display:none;">
+    <h4 id="explanation_desc"></h4>
+      <button type="button" class="btn btn-default" id="move_on">I got it!</button>
+
+<!-- Score -->
+
+
+<!-- complete -->
+<div class="container" id="complete" style="display:none;">
+
+</div>
+  </body>
+</html>
