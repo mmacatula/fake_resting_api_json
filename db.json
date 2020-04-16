@@ -1,140 +1,202 @@
 {
-   
-  "MC questions": [
+  "Questions_Quiz1": [
     {
-        "q" : "The common element which describe the web page, is ?",
-        "opt1" : "heading",
-        "opt2" : "paragraph",
-        "opt3" : "All of these",
-        "answer" : "All of these"
+    "id": 1,
+    "question_type": "Multiple selection",
+    "question": "Which of these are ways to achieve an Asynchronous Network Request?",
+    "options": {
+      "optiona": "Asynchronous request using Callback and AJAX",
+      "optionb": "Network requests using Promises and the fetch API",
+      "optionc": "Network requests using await and the fetch API",
+      "optiond": "Network Request using Async/Await Syntax"
     },
-    {
-        "q" : "HTML stands for?",
-        "opt1" : "Hyper Text Markup Language",
-        "opt2" : "High Text Markup Language",
-        "opt3" : "Hyper Tabular Markup Language",
-        "answer" : "Hyper Text Markup Language"
+    "correct_answers": "Asynchronous request using Callback and AJAXNetwork requests using Promises and the fetch APINetwork Request using Async/Await Syntax",
+    "explanation": "Coordination and communication between asynchronous function request and the javascript engine relies on callbacks, promises and/or Async/Await functionality"
     },
     {
-        "q" : "which of the following tag is used to mark a begining of paragraph ?",
-        "opt1" : "TD",
-        "opt2" : "br",
-        "opt3" : "P",
-        "answer" : "P"
+      "id": 2,
+      "question_type": "Fill in",
+      "question": "To preserve documents on your computer, what should you perform frequently?",
+      "correct_answers": "Backups",
+      "explanation": "Performing backups regularly guarantees that all your information is stored either on your system or remotely in the case that you lose access or your system malfunctions."
     },
     {
-        "q" : "From which tag descriptive list starts ?",
-        "opt1" : "LL",
-        "opt2" : "DL",
-        "opt3" : "DD",
-        "answer" : "DL"
+      "id": 3,
+      "question_type": "Multiple choice",
+      "question": "Which is correct Java Syntax?",
+      "options": {
+        "optiona": "System.in.println(x)",
+        "optionb": "System.out.println(x)",
+        "optionc": "helloWorld",
+        "optiond": "Print helloWorld"
+      },
+      "correct_answers": "System.out.println(x)",
+      "explanation": "The correct answers is option b because we need to make the system know we are printing a message"
     },
     {
-        "q" : "Correct HTML tag for the largest heading is _____",
-        "opt1" : "h1",
-        "opt2" : "h6",
-        "opt3" : "heading",
-        "answer" : "h1"
+      "id":4,
+      "question_type": "TF",
+      "question": "Does Java run in a virtual enviornment?",
+      "options":{
+        "optiona": "True",
+        "optionb": "False"
+      },
+      "correct_answers":"True",
+      "explanation": "A Java virtual machine (JVM) is a virtual machine that enables a computer to run Java programs as well as programs written in other languages that are also compiled to Java bytecode."
     },
-     {
-        "q" : "Which of the following are the three most common methods for organizing websites?",
-        "opt1" : "square,rectangle,circular",
-        "opt2" : "hierarchal,linear,random",
-        "opt3" : "under, over, through",
-        "answer" : "hierarchal,linear,random"
+    {
+      "id":5,
+      "question_type": "Pictures",
+      "question": "Which highlighted section can help you identify whatthe name of the file is? ",
+      "options": {
+        "optiona": ".\\Images_for_quiz\\Quiz1\\File_name_correct_option.PNG",
+        "optionb": ".\\Images_for_quiz\\Quiz1\\File_name_Option1.PNG",
+        "optionc": ".\\Images_for_quiz\\Quiz1\\File_name_Option2.PNG",
+        "optiond": ".\\Images_for_quiz\\Quiz1\\File_name_Option3.PNG"
+      },
+      "correct_answers":"Images_for_quiz/Quiz1/File_name_correct_option.PNG",
+      "explanation": "Typically a file name and the class will match up"
     },
-     {
-        "q" : "Which of the following is not one of the four principles of the Web Content Accessibility Guidelines?",
-        "opt1" : "operable",
-        "opt2" : "perceivable",
-        "opt3" : "appeasable",
-        "answer" : "appeasable"
+    {
+      "id":6,
+      "question_type": "Fill in",
+      "question": "What is the output of the following code?  <img src='.\\Images_for_quiz\\Quiz1\\Python_Code_If_Statment.PNG'>",
+      "correct_answers":"50",
+      "explanation": "The correct answer is 50. You need to make sure to check for the value using the greater than or equal"
     },
-     {
-        "q" : "Which of the following is known as white space?",
-        "opt1" : "the empty screen area around blocks of text and images",
-        "opt2" : "wherever the color white is seen on the page",
-        "opt3" : "the back end of the development",
-        "answer" : "the empty screen area around blocks of text and images"
+    {
+      "id": 7,
+      "question_type": "Fill in",
+      "question": "What is the main circuit board of a system unit?",
+      "correct_answers": "Motherboard",
+      "explanation": "The motherboard contains the processor, memory, and other important components."
     },
-     {
-        "q" : "Which of the following is the design technique used to create pages that stretch to fill the browser window?",
-        "opt1" : "gas",
-        "opt2" : "liquid",
-        "opt3" : "solid",
-        "answer" : "liquid"
+    {
+      "id":8,
+      "question_type": "Fill in",
+      "question": "What is the name of the following loop?  <img src='.\\Images_for_quiz\\Quiz1\\For_loop.PNG'>",
+      "correct_answers":"For loop",
+      "explanation": "A for loop allows code to be executed repeatedly for a set length that is specified within the loop"
     },
-     {
-        "q" : "Which HTML5 element has the most purpose of providing tangential content?",
-        "opt1" : "onside",
-        "opt2" : "other side",
-        "opt3" : "aside",
-        "answer" : "aside"
+    {
+      "id":9,
+      "question_type": "Pictures",
+      "question": "Which of the following images produce a mismatch error?",
+      "options": {
+        "optiona": ".\\Images_for_quiz\\Quiz1\\Mistmatch_error_code.PNG height=332",
+        "optionb": ".\\Images_for_quiz\\Quiz1\\No_mistmatch_error_code.PNG height=332",
+        "optionc": ".\\Images_for_quiz\\Quiz1\\No_mistmatch_error_code2.PNG height=332",
+        "optiond": ".\\Images_for_quiz\\Quiz1\\No_mistmatch_error_code3.PNG height=332"
+      },
+      "correct_answers":"Images_for_quiz/Quiz1/Mistmatch_error_code.PNG",
+      "explanation": "This is a mismatch because you cannot convert from int to boolean"
+    },
+    {
+      "id": 10,
+      "question_type": "Multiple choice",
+      "question": "When does a logical error occur?",
+      "options": {
+        "optiona": "The logical error happens when a program implements the wrong logic",
+        "optionb": "The logical error happens when a program implements the correct logic",
+        "optionc": "The logical error happens when a program is not smart",
+        "optiond": "The logical error happens when a user does not know how to use a program"
+      },
+      "correct_answers": "The logical error happens when a program implements the wrong logic",
+      "explanation": "The logical error happens when a program implements the wrong logic.These errors are the most difficult to locate because the compiler does not report any error message."
+    },
+    {
+    "id": 11,
+    "question_type": "Multiple selection",
+    "question": "Name different types of errors which can occur during the execution of a program",
+    "options": {
+      "optiona": "Syntax Errors",
+      "optionb": "Runtime Errors",
+      "optionc": "Logical errors",
+      "optiond": "Non Logical errors"
+    },
+    "correct_answers": "Syntax ErrorsRuntime ErrorsLogical errors",
+    "explanation": "Syntax Errors Runtime Errors and Logical errors are the three types of errors that can occure when a program executes."
+    },
+    {
+      "id":12,
+      "question_type": "Fill in",
+      "question": "What do we call the binary form of a target language?",
+      "correct_answers":"Binary Code",
+      "explanation": "Binary code and binary form are interchangable and refer to the same concept."
+    },
+    {
+      "id":13,
+      "question_type": "TF",
+      "question": "Can you access Cookie using javascript?",
+      "options":{
+        "optiona": "True",
+        "optionb": "False"
+      },
+      "correct_answers":"True",
+      "explanation": "JavaScript can also manipulate cookies using the cookie property of the Document object."
+    },
+    {
+    "id": 14,
+    "question_type": "Fill in",
+    "question": "What is the JS function of String object that is used to replace a part of a string with another substring?",
+    "correct_answers": "replace()",
+    "explanation": "Replace is used to find a match between a regular expression and a string, and to replace the matched substring with a new substring."
+    },
+    {
+      "id":15,
+      "question_type": "Pictures",
+      "question": "Which of the following prints out 'abcdef'?",
+      "options": {
+        "optiona": ".\\Images_for_quiz\\Quiz1\\Array_output.PNG",
+        "optionb": ".\\Images_for_quiz\\Quiz1\\Array_output2.PNG",
+        "optionc": ".\\Images_for_quiz\\Quiz1\\correct_answer_array_output.PNG",
+        "optiond": ".\\Images_for_quiz\\Quiz1\\Array_output3.PNG"
+      },
+      "correct_answers":"Images_for_quiz/Quiz1/correct_answer_array_output.PNG",
+      "explanation": "Paying close attention to when the while loop will terminate is key in answering this question."
+    },
+    {
+      "id":16,
+      "question_type": "TF",
+      "question": "The three ways to declare a function in JS are function declaration, function expression, and arrow syntax",
+      "options":{
+        "optiona": "True",
+        "optionb": "False"
+      },
+      "correct_answers":"True",
+      "explanation": "These three ways create a function and though the declaration is different it does not chnage the way a functions works"
+    },
+    {
+    "id": 17,
+    "question_type": "Fill in",
+    "question": "What is Beta version?",
+    "correct_answers": "An early version",
+    "explanation": "A version which is not ready for release and can be changed after the feedback from the users. This is a phase in the creation of a application"
+    },
+    {
+    "id": 18,
+    "question_type": "Fill in",
+    "question": "What is a crash dump?",
+    "correct_answers": "Memory Dump",
+    "explanation": "A recording of the memory of a program at the occasion of a crash. This recording lets programmers or other people investigate what caused the crash."
+    },
+    {
+    "id": 19,
+    "question_type": "Fill in",
+    "question": "Where was the first computer science department?",
+    "correct_answers": "Cambridge",
+    "explanation": "The field of computer science developed from numerous different people and Cambridge had the first departmen soley dedicated to it."
+  },
+    {
+      "id":20,
+      "question_type": "TF",
+      "question": "Memory dump and crash dump are different",
+      "options":{
+        "optiona": "True",
+        "optionb": "False"
+      },
+      "correct_answers":"False",
+      "explanation": "These words can be used interchangable."
     }
-     ],
-   
-"TF questions":  [     
-     
-    {
-        "q" : "Multiple radio buttions in the same group can be set to a checked state at the same time",
-        "opt1" : "True",
-        "opt2" : "False",
-        "answer" : "False"
-    },
-    {
-        "q" : "It is possible to create nested lists (one list inside another) ?",
-        "opt1" : "True",
-        "opt2" : "False",
-        "answer" : "True"
-    }, 
-     {
-        "q" : "It's important to design and style websites where users recognize each page as belonging to the same site.",
-        "opt1" : "True",
-        "opt2" : "False",
-        "answer" : "True"
-    },
-    {
-        "q" : "The two main forms of visual balance are: symmetrical balance and bilateral balance.",
-        "opt1" : "True",
-        "opt2" : "False",
-        "answer" : "False"
-    }, 
-     {
-        "q" : "HTML and CSS are the two main languages we use to create web pages.",
-        "opt1" : "True",
-        "opt2" : "False",
-        "answer" : "True"
-    },
-    {
-        "q" : "What you put in the body element of your HTML page is what viewer's see when the page is displayed in a browser.",
-        "opt1" : "True",
-        "opt2" : "False",
-        "answer" : "True"
-    }, 
-     {
-        "q" : "An attribute tells you something about the element which contains it.",
-        "opt1" : "True",
-        "opt2" : "False",
-        "answer" : "True"
-    },
-    {
-        "q" : "From which tag descriptive list starts ?",
-       "opt1" : "True",
-        "opt2" : "False",
-        "answer" : "False"
-    }, {
-        "q" : "If one element contains another it is considered to be the guardian of the enclosed element.",
-        "opt1" : "True",
-        "opt2" : "False",
-        "answer" : "False"
-    },
-    {
-        "q" : "From which tag descriptive list starts ?",
-       "opt1" : "True",
-        "opt2" : "False",
-        "answer" : "False"
-    }
-   
-    ]
-    
+  ]
 }
